@@ -39,3 +39,5 @@ By using a backend server, the OAuth redirect URL is fixed (e.g., `https://api.y
 | Endpoint  | Method | Description          |
 | --------- | ------ | -------------------- |
 | `/health` | GET    | Server health status |
+
+[ExportMyChat repository — GitHub](https://github.com/kanhaiyadav/ExportMyChat)
